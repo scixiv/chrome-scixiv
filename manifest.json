@@ -1,0 +1,6 @@
+{
+  "name": "Chrome Extension of Scixiv",
+  "description": "An extension to access services of scixiv.",
+  "version": "0.0.1",
+  "manifest_version": 2
+}
