@@ -1,6 +1,11 @@
 {
-  "name": "Chrome Extension of Scixiv",
+  "name": "识海",
   "description": "An extension to access services of scixiv.",
   "version": "0.0.1",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "homepage_url": "https://www.scixiv.com",
+  "browser_action": {
+    "default_title": "识海 真假辨识助手",      // optional; shown in tooltip
+    "default_popup": "popup.html"        // optional
+  }
 }
