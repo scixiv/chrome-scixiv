@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "识海",
+    "description": "应用名称"
+  },
+  "appDescription": {
+    "message": "识海浏览器插件",
+    "description": "应用描述"
+  }
+}

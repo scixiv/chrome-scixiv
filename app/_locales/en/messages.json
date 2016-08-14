@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "scixiv",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "An extension to access services of scixiv.",
+    "description": "The description of the application"
+  }
+}
