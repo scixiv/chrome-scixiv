@@ -1,0 +1,22 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+    "react",
+    "jsx-a11y",
+    "import"
+  ],
+  "env": {
+    "node": true,
+    "browser": true
+  },
+  "globals": {
+    "chrome": true
+  },
+  "rules": {
+    "eol-last": 0,
+    "quotes": [
+      2,
+      "single"
+    ]
+  }
+}
